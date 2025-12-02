@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material3 Light Theme Colors -->
+    <color name="md_theme_light_primary">#6B4EFF</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#E6DEFF</color>
+    <color name="md_theme_light_onPrimaryContainer">#21005E</color>
+    
+    <color name="md_theme_light_secondary">#FFA726</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#FFECB3</color>
+    <color name="md_theme_light_onSecondaryContainer">#3E2723</color>
+    
+    <color name="md_theme_light_background">#FFFBFF</color>
+    <color name="md_theme_light_onBackground">#1C1B1F</color>
+    <color name="md_theme_light_surface">#FFFBFF</color>
+    <color name="md_theme_light_onSurface">#1C1B1F</color>
+    
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    
+    <!-- Material3 Dark Theme Colors -->
+    <color name="md_theme_dark_primary">#CFBDFF</color>
+    <color name="md_theme_dark_onPrimary">#3700B3</color>
+    <color name="md_theme_dark_primaryContainer">#4F378B</color>
+    <color name="md_theme_dark_onPrimaryContainer">#E6DEFF</color>
+    
+    <color name="md_theme_dark_secondary">#FFB74D</color>
+    <color name="md_theme_dark_onSecondary">#5D4037</color>
+    <color name="md_theme_dark_secondaryContainer">#6D4C41</color>
+    <color name="md_theme_dark_onSecondaryContainer">#FFECB3</color>
+    
+    <color name="md_theme_dark_background">#1C1B1F</color>
+    <color name="md_theme_dark_onBackground">#E6E1E5</color>
+    <color name="md_theme_dark_surface">#1C1B1F</color>
+    <color name="md_theme_dark_onSurface">#E6E1E5</color>
+    
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    
+    <!-- Common colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- Status colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="info">#2196F3</color>
+</resources>
